@@ -48,3 +48,12 @@ Tokenization
 Stop-word removal
 
 Optional stemming/lemmatization
+
+FEATURES:-
+
+After preprocessing, the text data is vectorized using NLP-based feature representations:
+
+  FEATURE TYPE    :                        DESCRIPTION                                     :  TOOL/METHOD USED
+Token frequency   :  Basic bag-of-words representation (count of terms in each message)    :  CountVectorizer
+TF-IDF weighting  :  Weighted representation emphasizing rare but important terms          :  TfidfVectorizer
+n-gram features   :  Captures token sequences (e.g., bigrams) to preserve partial context  :  TfidfVectorizer(ngram_range=(1,2))
