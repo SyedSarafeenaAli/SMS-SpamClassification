@@ -1,5 +1,11 @@
 # THEORY:-
 
+CLASSIFICATION: Classification in machine learning is a supervised learning technique where a model learns from labeled data to assign new data points to predefined categories or classes. It's used for tasks like spam detection or medical diagnosis to predict which category new, unseen data belongs to, based on patterns learned from training data. 
+
+MULTINOMIAL NAIVE BAYES: Multinomial Naive Bayes is one of the variation of Naive Bayes algorithm which is ideal for discrete data and is typically used in text classification problems. It models the frequency of words as counts and assumes each feature or word is multinomially distributed. MNB is widely used for tasks like classifying documents based on word frequencies like in spam email detection.
+
+TF-IDF: Term Frequency-Inverse Document Frequency (TF-IDF), is a statistical method used in natural language processing to quantify the importance of a word in a document relative to a collection of documents (a corpus). It's calculated by multiplying two components: Term Frequency (TF), which measures how often a word appears in a specific document, and Inverse Document Frequency (IDF), which measures how rare a word is across the entire corpus
+
 # PROBLEM STATEMENT:-
 
 The proliferation of unsolicited and fraudulent messages through SMS channels poses a major challenge for mobile communication systems. Manual filtering is inefficient and infeasible at scale. Therefore, the problem addressed in this project is:
