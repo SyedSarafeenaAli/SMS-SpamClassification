@@ -1,11 +1,11 @@
-# THEORY
+# THEORY:-
 
-# PROBLEM STATEMENT
+# PROBLEM STATEMENT:-
 
 The proliferation of unsolicited and fraudulent messages through SMS channels poses a major challenge for mobile communication systems. Manual filtering is inefficient and infeasible at scale. Therefore, the problem addressed in this project is:
 “To develop an automated machine learning-based system capable of detecting and classifying SMS messages as either spam or legitimate (ham) based on their textual content.”
 
-# OBJECTIVE
+# OBJECTIVE:-
 
 The specific objectives of the project are:
 
@@ -19,7 +19,7 @@ The specific objectives of the project are:
 
 5) Deployment: Implement a real-time classification system using the serialized model (model.pkl) integrated with an interactive front-end (app.py).
 
-# DATASET AND FEATURES
+# DATASET AND FEATURES:-
 
 DATASET:-
 
