@@ -23,13 +23,13 @@ The specific objectives of the project are:
 
 DATASET:-
 
-Name: SMS Spam Collection Dataset
+1) Name: SMS Spam Collection Dataset
 
-Source: The dataset included (spam.csv) corresponds to the UCI Machine Learning Repository SMS Spam Collection Dataset.
+2) Source: The dataset included (spam.csv) corresponds to the UCI Machine Learning Repository SMS Spam Collection Dataset.
 
-Size: 5,574 labeled SMS messages
+3) Size: 5,574 labeled SMS messages
 
-Attributes:-
+4) Attributes:-
 
 Label: Binary categorical variable indicating message type — ham or spam.
 
@@ -37,7 +37,7 @@ Message: The raw text content of the SMS message.
 
 Distribution: ~86% ham, ~14% spam (class imbalance considered during training).
 
-Preprocessing Steps:-
+5) Preprocessing Steps:-
 
 Lowercasing
 
