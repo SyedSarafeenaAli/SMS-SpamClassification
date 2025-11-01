@@ -6,4 +6,17 @@ The proliferation of unsolicited and fraudulent messages through SMS channels po
 “To develop an automated machine learning-based system capable of detecting and classifying SMS messages as either spam or legitimate (ham) based on their textual content.”
 
 # OBJECTIVE
+
+The specific objectives of the project are:
+
+1) Data Acquisition and Preprocessing: Import and clean the SMS dataset by removing inconsistencies and irrelevant characters.
+
+2) Feature Engineering: Convert raw text into vectorized numerical features suitable for machine learning models.
+
+3) Model Development: Train and optimize a supervised classifier to distinguish spam from ham messages.
+
+4) Model Evaluation: Measure model performance using quantitative metrics such as confusion matrix, accuracy, precision, recall, and F1-score.
+
+5) Deployment: Implement a real-time classification system using the serialized model (model.pkl) integrated with an interactive front-end (app.py).
+
 # DATASET AND FEATURES
