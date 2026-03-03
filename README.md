@@ -1,3 +1,7 @@
+#  Network URL:-
+
+http://192.168.29.142:8502
+
 # THEORY:-
 
 CLASSIFICATION: Classification in machine learning is a supervised learning technique where a model learns from labeled data to assign new data points to predefined categories or classes. It's used for tasks like spam detection or medical diagnosis to predict which category new, unseen data belongs to, based on patterns learned from training data. 
